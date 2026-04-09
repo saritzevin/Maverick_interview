@@ -1,0 +1,21 @@
+# PyTorch and torchvision
+torch>=2.1
+torchvision>=0.16
+
+# YAML
+PyYAML>=6.0
+
+# Image handling
+Pillow>=9.0
+
+# Numerical computing
+numpy>=1.21
+
+# Plotting
+matplotlib>=3.5
+
+# Machine learning metrics
+scikit-learn>=1.2
+
+# Progress bars
+tqdm>=4.65
